@@ -1,0 +1,8 @@
+prefix=/home/brucemingxinliu/ros_ws/devel
+
+Name: new_action_server
+Description: Description of new_action_server
+Version: 0.0.0
+Cflags: -I/home/brucemingxinliu/ros_ws/devel/include -I/home/brucemingxinliu/ros_ws/src/new_action_server/include
+Libs: -L/home/brucemingxinliu/ros_ws/devel/lib 
+Requires: roscpp std_msgs actionlib message_runtime

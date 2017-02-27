@@ -1,0 +1,8 @@
+prefix=/home/brucemingxinliu/ros_ws/install
+
+Name: stdr_server
+Description: Description of stdr_server
+Version: 0.3.1
+Cflags: -I/home/brucemingxinliu/ros_ws/install/include
+Libs: -L/home/brucemingxinliu/ros_ws/install/lib -lstdr_map_loader
+Requires: roscpp tf nav_msgs stdr_msgs actionlib nodelet map_server visualization_msgs

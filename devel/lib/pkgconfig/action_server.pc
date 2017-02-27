@@ -1,0 +1,8 @@
+prefix=/home/brucemingxinliu/ros_ws/devel
+
+Name: action_server
+Description: Description of action_server
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/brucemingxinliu/ros_ws/devel/lib 
+Requires: 

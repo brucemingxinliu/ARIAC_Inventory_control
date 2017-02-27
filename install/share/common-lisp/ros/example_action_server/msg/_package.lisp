@@ -1,0 +1,19 @@
+(cl:defpackage example_action_server-msg
+  (:use )
+  (:export
+   "<DEMOACTIONFEEDBACK>"
+   "DEMOACTIONFEEDBACK"
+   "<DEMOGOAL>"
+   "DEMOGOAL"
+   "<DEMOACTIONGOAL>"
+   "DEMOACTIONGOAL"
+   "<DEMOACTION>"
+   "DEMOACTION"
+   "<DEMOFEEDBACK>"
+   "DEMOFEEDBACK"
+   "<DEMOACTIONRESULT>"
+   "DEMOACTIONRESULT"
+   "<DEMORESULT>"
+   "DEMORESULT"
+  ))
+
